@@ -66,3 +66,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# in order to run this, you must create a personal API on openAI's website and paste it into the hidden.txt file
