@@ -1,0 +1,1 @@
+# must add API key from openAI.com in this file to run program
